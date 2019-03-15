@@ -1,0 +1,24 @@
+{
+  "name": "@acutejs/plugin-redux",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamnewmarch/acutejs-plugin-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamnewmarch/acutejs-plugin-redux/issues"
+  },
+  "homepage": "https://github.com/liamnewmarch/acutejs-plugin-redux#readme",
+  "peerDependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-google": "^0.12.0"
+  }
+}
