@@ -1,7 +1,8 @@
 {
   "name": "@acutejs/plugin-redux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
+  "type": "module",
   "main": "dist/index.esm.js",
   "repository": {
     "type": "git",
@@ -18,7 +19,7 @@
     "redux": "^4.0.1"
   },
   "devDependencies": {
-    "eslint": "^5.15.1",
-    "eslint-config-google": "^0.12.0"
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
